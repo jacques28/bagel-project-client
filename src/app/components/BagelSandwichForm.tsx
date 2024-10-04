@@ -59,7 +59,7 @@ const BagelSandwichForm: React.FC = () => {
             </li>
           </ul>
         </div>
-        console.log(NEXT_PUBLIC_BAGEL_USER_ID);
+       
       </div>
     </div>
   );
