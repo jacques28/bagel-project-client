@@ -25,7 +25,7 @@ This application is a Bagel Recipe Generator that uses the LLaMA3 model for gene
 ### Backend Setup
 1. Navigate to the backend directory:
 cd server
-Copy
+
 2. Create a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows use venv\Scripts\activate
